@@ -10,7 +10,7 @@ echo "--------------------------------------------------------------------------
  
 #Date Created:  Sat Oct 14 10:26:34 PM CDT 2023
 #Purpose: simple arithmetic operation
-#Author: HORLA The Unknown
+#Author: Horlalaycon
 
 echo "Enter operation e.g 1+1"
 read operation
